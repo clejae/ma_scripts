@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://N:/temp/temp_akpona/x_calieco/00_scripts/.idea/00_scripts.iml" filepath="N:/temp/temp_akpona/x_calieco/00_scripts/.idea/00_scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MA_python_scripts.iml" filepath="$PROJECT_DIR$/.idea/MA_python_scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../04_SoSe_18/GeoPython/Scripts/.idea/Session01.iml" filepath="$PROJECT_DIR$/../../../../04_SoSe_18/GeoPython/Scripts/.idea/Session01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../geotools/.idea/geotools.iml" filepath="$PROJECT_DIR$/../../../../geotools/.idea/geotools.iml" />
+    </modules>
+  </component>
+</project>
